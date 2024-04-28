@@ -17,8 +17,8 @@ programa {
       leia(numero6)
 
 
-        escreva("A soma dos números inferiores a 72 é: ", soma, "\n")
-        escreva("Os números informados foram: ")
+        escreva("A soma dos nÃºmeros inferiores a 72 Ã©: ", soma, "\n")
+        escreva("Os nÃºmeros informados foram: ")
        
 
         
