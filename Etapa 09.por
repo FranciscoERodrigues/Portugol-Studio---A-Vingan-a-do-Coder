@@ -10,11 +10,11 @@ programa {
   escreva("Ano de nascimento:")
   leia(ano)
 
-  se (ano <= 2006) {
-          escreva("você pode votar " + nome)  
+  se (ano < 2006) {
+          escreva("vocÃª pode votar " + nome)  
         }
         senao se (ano > 2006 ) {
-            escreva("Você não pode votar" + nome)
+            escreva("VocÃª nÃ£o pode votar" + nome)
             
         }
 
